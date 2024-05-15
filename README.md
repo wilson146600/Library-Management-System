@@ -35,12 +35,21 @@ Het Library-Management-System is een C# console-applicatie ontworpen om de colle
     - Beheer uitleentransacties voor boeken.
     - Bekijk nieuwe acquisities in de leeszaal die vandaag zijn toegevoegd.
 
+## Boeken Inlezen
+
+Boeken worden enkel ingelezen als er een 2de parameter word voorzien voor de CsvDeserializeMagazine methode. Deze parameter moet een route naar een csv
+bestand zijn.
+
+- **Csv Formaat Book**: <titel>;<auteur>.
+- **Csv Formaat Magazine**: <titel>;<uitgever>;<maand>;<jaar>.
+- **Csv Formaat Book**: <titel>;<uitgever>;<datum>.
+
+
 ## Code Structuur
 
 - **Program.cs**: Startpunt van de applicatie.
 - **Library.cs**: Bevat de `Library` klasse die verantwoordelijk is voor het beheren van de collectie items en gerelateerde operaties.
 - **Book.cs, Magazine.cs, Newspaper.cs**: Definieer de `Book`, `Magazine` en `Newspaper` klassen.
-- **CSVFileHandler.cs**: Behandelt het lezen van en schrijven naar CSV-bestanden.
 - **Loan.cs**: Beheert de uitleentransacties voor boeken.
 
 ## Belangrijke Concepten en Technologieën
