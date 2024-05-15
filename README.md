@@ -54,12 +54,9 @@ Het Library-Management-System is een C# console-applicatie ontworpen om de colle
 
 Bijdragen zijn welkom! Als je bugs vindt of suggesties hebt voor verbeteringen, maak dan een issue aan of dien een pull request in.
 
-## Licentie
-
-Dit project is gelicentieerd onder de MIT Licentie - zie het [LICENSE](LICENSE) bestand voor details.
 
 ## Contact
 
-Voor vragen of inlichtingen, neem contact op met [jouwnaam](mailto:jouwemail@example.com).
+Voor vragen of inlichtingen, neem contact op met Wilson (mailto:wilsonquayson1999@gmail.com).
 
 
