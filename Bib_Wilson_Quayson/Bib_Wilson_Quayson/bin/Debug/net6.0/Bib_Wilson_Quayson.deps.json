@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bib_Wilson_Quayson/1.0.0": {
+        "runtime": {
+          "Bib_Wilson_Quayson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bib_Wilson_Quayson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\bin\Debug\net6.0\Bib_Wilson_Quayson.exe
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\bin\Debug\net6.0\Bib_Wilson_Quayson.deps.json
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\bin\Debug\net6.0\Bib_Wilson_Quayson.runtimeconfig.json
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\bin\Debug\net6.0\Bib_Wilson_Quayson.dll
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\bin\Debug\net6.0\Bib_Wilson_Quayson.pdb
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.csproj.AssemblyReference.cache
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.AssemblyInfoInputs.cache
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.AssemblyInfo.cs
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.dll
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\refint\Bib_Wilson_Quayson.dll
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.pdb
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\Bib_Wilson_Quayson.genruntimeconfig.cache
+C:\Users\Wilson\Desktop\AP 2023-2024\OOP\Bib_Wilson_Quayson\Bib_Wilson_Quayson\obj\Debug\net6.0\ref\Bib_Wilson_Quayson.dll
