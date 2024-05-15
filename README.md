@@ -40,9 +40,9 @@ Het Library-Management-System is een C# console-applicatie ontworpen om de colle
 Boeken worden enkel ingelezen als er een 2de parameter word voorzien voor de CsvDeserializeMagazine methode. Deze parameter moet een route naar een csv
 bestand zijn.
 
-- **Csv Formaat Book**: <titel>;<auteur>.
-- **Csv Formaat Magazine**: <titel>;<uitgever>;<maand>;<jaar>.
-- **Csv Formaat Book**: <titel>;<uitgever>;<datum>.
+- **Csv Formaat Book**: titel;auteur.
+- **Csv Formaat Magazine**: titel;uitgever;maand;jaar.
+- **Csv Formaat Book**: titel;uitgever;datum.
 
 
 ## Code Structuur
